@@ -1,6 +1,6 @@
 <?php
 
-// false ?: throw Exception
+false ?: throw Exception;
 
 // $fn = fn() => throw new Exception('mogemoge');
 
